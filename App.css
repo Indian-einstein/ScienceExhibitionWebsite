@@ -1,0 +1,33 @@
+body {
+  text-align: center;
+  background-color: #7c90d3;
+}
+
+header, main, footer {
+  padding: 30px;
+}
+
+h1, h2 {
+  color: #333;
+}
+
+ul {
+  list-style-type: none;
+}
+
+#Container,#Container1{
+  padding: 35px;
+  border: 1px solid black;
+  margin: 20px;
+  background-color: #7ccdd3;
+}
+
+form,#Container,#Container1{
+  justify-content: center;
+  text-align: center;
+}
+
+form{
+  font-size: x-large;
+}
+

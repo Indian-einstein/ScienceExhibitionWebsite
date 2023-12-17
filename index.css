@@ -1,0 +1,58 @@
+:root {
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  text-align: center;
+  place-items: center;
+  justify-content: center;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+nav{
+  width: 1300px;
+  height: 180px;
+}
+
+.Navbar-brand,.nav-item,#dropdown{
+  height: 70px;
+  width: 150px;
+  padding-right: 20px;
+  margin: 20px;
+}
+
+#form{
+  padding-left: 40px;
+}
+
+.form-control{
+  height: 70px;
+  width: 150px;
+}
+
+.btn{
+  height: 70px;
+  width: 150px;
+}
+
+.Navbar-brand,.container-fluid{
+  font-size: 190%;
+}
+
+.page-item{
+  justify-content: center;
+  margin-left: 60px;
+  margin-right: 60px;
+}
+
+#logo{
+  margin-right: 650px;
+}
